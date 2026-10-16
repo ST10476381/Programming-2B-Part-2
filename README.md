@@ -20,19 +20,6 @@ The main features of the system include:
 - **Race results:** The system is designed to support recording and viewing race results, including finishing times and positions, through the relevant implemented endpoints.
 - **API testing:** Swagger and automated unit tests are used to test the system.
 
-## 3. Technologies Used
-
-The following technologies and tools were used:
-
-- C#
-- ASP.NET Core Web API
-- .NET 8
-- Microsoft SQL Server
-- Entity Framework Core
-- JWT authentication
-- Swagger / OpenAPI
-- xUnit testing framework
-- Visual Studio
 
 ## 4. User Roles
 
