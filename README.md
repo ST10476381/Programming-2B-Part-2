@@ -116,15 +116,4 @@ A typical workflow in the system is:
 7. Organisers view enrolments for their own events.
 8. Race results can be recorded and viewed through the relevant endpoints implemented in the project.
 
-## 10. Conclusion
 
-Working on RaceDayAPI helped me improve my understanding of developing REST APIs using ASP.NET Core. I gained practical experience with database integration, JWT authentication, role-based access control, Swagger, and unit testing.
-
-The project demonstrates how an API can be used to manage race events, categories, and participant enrolments while restricting access according to user roles.
-
-**Project name:** RaceDayAPI  
-**Framework:** .NET 8  
-**Programming language:** C#  
-**Database:** Microsoft SQL Server  
-**API documentation and testing:** Swagger / OpenAPI  
-**Unit testing:** xUnit
