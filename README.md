@@ -1,10 +1,4 @@
-# RaceDayAPI – Race Day Management System
 
-## 1. Introduction
-
-RaceDayAPI is a Web API project that I developed to help manage race events and participants. The system allows users to register and log in as either Participants or Organisers. Participants can view race events and enrol in categories, while Organisers can create and manage their events and categories.
-
-I developed this project using ASP.NET Core Web API with .NET 8 and SQL Server. I used Swagger to test the API endpoints and xUnit to test whether the main features work correctly.
 
 ## 2. Project Features
 
