@@ -24,10 +24,10 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore "PATH/TO/RaceDayAPI.sln"
+        run: dotnet restore "RaceDayAPI.sln"
 
       - name: Build solution
-        run: dotnet build "PATH/TO/RaceDayAPI.sln" --configuration Release --no-restore
+        run: dotnet build "RaceDayAPI.sln" --configuration Release --no-restore
 
       - name: Run unit tests
-        run: dotnet test "PATH/TO/RaceDayAPI.sln" --configuration Release --no-build --logger "console;verbosity=normal"
+        run: dotnet test "RaceDayAPI.sln" --configuration Release --no-build --logger "console;verbosity=normal"
